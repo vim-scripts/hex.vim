@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2955
+
+This is a filetype plugin for Intel Hex Files.
+Shows the address and decimal data at the cursor position.
+:HexGotoAddress 0x...... : Jump to address
+
+Actually it is only for 'Extended linear address record ' (type 04)
+If you need other types too, send me your hex-file
